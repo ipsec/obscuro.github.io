@@ -1,0 +1,4 @@
+baseURL = 'https://obscuro.com.br/'
+locale = 'pt-BR'
+title = 'Domínio obscuro.com.br à venda!'
+theme = 'ananke'
